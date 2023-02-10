@@ -7,6 +7,14 @@ Check out this video demonstrating the functionality of the project:
 
 [Demonstration Video](https://drive.google.com/file/d/1lmVhVAUxQE3fKprDgVYawGxDKiYTV1K8/view)
 
+Check out this video demonstrating the test suites for the project:
+
+[Test Suite Demo Vid](https://drive.google.com/file/d/1EbA5u06cYOGdrcMk5f-6_abOxvYxCc8z/view)
+
+## Link to Sample team.html file
+
+[Sample .html file that was generated with the application](https://drive.google.com/file/d/1gSmnFfkDRlTLPSeJKt08x4UXq7ddZC68/view?usp=share_link)
+
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
